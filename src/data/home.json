@@ -1,0 +1,30 @@
+{"home":[{
+    "banner":["img/banner1.png","img/banner2.png","img/banner3.png"]
+    },{
+   "list":[{
+       "favicon_id":1,
+       "img":"img/home1.png",
+       "info":"【王境泽】中国功夫"
+   },{
+       "favicon_id":2,
+       "img":"img/home2.png",
+       "info":"【王境泽】稻香"
+   },{
+       "favicon_id":3,
+       "img":"img/home3.png",
+       "info":"【2018 Bilibili Dancing Festival 主题曲】与你同行"
+   },{
+       "favicon_id":4,
+       "img":"img/home4.png",
+       "info":"【大忽悠】我将所有撩妹技巧，用在一个温柔纯洁的男生身上"
+   },{
+       "favicon_id":5,
+       "img":"img/home5.png",
+       "info":"【泠鸢】Lemon（钢琴改编.Luna Pv.冰镇甜豆浆）" 
+   },{
+       "favicon_id":6,
+       "img":"img/home6.png",
+       "info":"【主播真会玩·主机篇】47：掘地球升2，代号'逼疯周淑怡'"
+   }]
+}]
+}

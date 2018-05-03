@@ -1,0 +1,19 @@
+<script type="text/x-handlebars-template" id="animate-tpl">
+    {{#each this}}
+    <div class="two-nav">
+            <ul>
+               {{#each nav}}
+                  <li>{{this}}</li>
+               {{/each}}
+            </ul>
+        </div>
+        <div class="lists">
+           {{#each list}}
+            <dl data-id="{{favicon_id}}" data-main="animation">
+                <dt><img src="{{img}}" alt=""></dt>
+                <dd>{{info}}</dd>
+            </dl>
+           {{/each}}
+        </div>
+    {{/each}}
+</script>

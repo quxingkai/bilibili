@@ -1,0 +1,31 @@
+{
+    "animation":[{
+        "nav":["推荐","MAD-AMV","MMD-3D","短片-手书配音","综合"]
+    },{
+        "list":[{
+            "favicon_id":7,
+            "img":"img/animate1.png",
+            "info":"【凉风】看东京搜查官Re之前，你可能需要知道的主线剧情整理！"
+        },{
+            "favicon_id":8,
+            "img":"img/animate2.png",
+            "info":"【梗百科43】梗百科完结？从不正眼看人的社会小猪！？真讲究！"
+        },{
+            "favicon_id":9,
+            "img":"img/animate3.png",
+            "info":"《复联3》剧情，灭霸集齐6颗无限宝石！第二章"
+        },{
+            "favicon_id":10,
+            "img":"img/animate4.png",
+            "info":"【新番有毒】这货是金木？我TM舔爆！"
+        },{
+            "favicon_id":11,
+            "img":"img/animate5.png",
+            "info":"【死神BLEACH/虚化特辑】怪物？没错！而且是你绝对无法战胜的怪物！"
+        },{
+            "favicon_id":12,
+            "img":"img/animate6.png",
+            "info":"【京紫60FPS】人如其名，永恒的美—— [紫罗兰永恒花园·纪念]"
+        }]
+    }]
+}

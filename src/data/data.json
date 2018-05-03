@@ -1,0 +1,60 @@
+{
+    "home":[{
+        "banner":["img/banner1.png","img/banner2.png","img/banner3.png"]
+        },{
+       "list":[{
+           "favicon_id":1,
+           "img":"img/home1.png",
+           "info":"【王境泽】中国功夫"
+       },{
+           "favicon_id":2,
+           "img":"img/home2.png",
+           "info":"【王境泽】稻香"
+       },{
+           "favicon_id":3,
+           "img":"img/home3.png",
+           "info":"【2018 Bilibili Dancing Festival 主题曲】与你同行"
+       },{
+           "favicon_id":4,
+           "img":"img/home4.png",
+           "info":"【大忽悠】我将所有撩妹技巧，用在一个温柔纯洁的男生身上"
+       },{
+           "favicon_id":5,
+           "img":"img/home5.png",
+           "info":"【泠鸢】Lemon（钢琴改编.Luna Pv.冰镇甜豆浆）" 
+       },{
+           "favicon_id":6,
+           "img":"img/home6.png",
+           "info":"【主播真会玩·主机篇】47：掘地球升2，代号'逼疯周淑怡'"
+       }]
+    }],
+    "animation":[{
+        "nav":["推荐","MAD-AMV","MMD-3D","短片-手书配音","综合"]
+    },{
+        "list":[{
+            "favicon_id":7,
+            "img":"img/animate1.png",
+            "info":"【凉风】看东京搜查官Re之前，你可能需要知道的主线剧情整理！"
+        },{
+            "favicon_id":8,
+            "img":"img/animate2.png",
+            "info":"【梗百科43】梗百科完结？从不正眼看人的社会小猪！？真讲究！"
+        },{
+            "favicon_id":9,
+            "img":"img/animate3.png",
+            "info":"《复联3》剧情，灭霸集齐6颗无限宝石！第二章"
+        },{
+            "favicon_id":10,
+            "img":"img/animate4.png",
+            "info":"【新番有毒】这货是金木？我TM舔爆！"
+        },{
+            "favicon_id":11,
+            "img":"img/animate5.png",
+            "info":"【死神BLEACH/虚化特辑】怪物？没错！而且是你绝对无法战胜的怪物！"
+        },{
+            "favicon_id":12,
+            "img":"img/animate6.png",
+            "info":"【京紫60FPS】人如其名，永恒的美—— [紫罗兰永恒花园·纪念]"
+        }]
+    }]
+}

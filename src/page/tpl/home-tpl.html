@@ -1,0 +1,22 @@
+<script type="text/x-handlebars-template" id="home-tpl">
+    {{#each this}}
+    <div class="swiper-container banner">
+        <div class="swiper-wrapper ban">
+            {{#each banner}}
+             <div class="swiper-slide">
+                <img src="{{this}}" alt="">
+             </div>
+            {{/each}}
+        </div>
+        <div class="swiper-pagination pagination"></div>
+    </div>
+    <div class="lists">
+        {{#each list}}
+        <dl data-id="{{favicon_id}}" data-main="home">
+            <dt><img src="{{img}}" alt=""></dt>
+            <dd>{{info}}</dd>
+        </dl>   
+        {{/each}}
+    </div>
+    {{/each}}
+</script>
